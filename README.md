@@ -46,3 +46,7 @@ selenium_pytest_framework/
 ├── pytest.ini 
 ├── requirements.txt 
 └── README.md
+
+
+
+selenium_pytest_framework/ │ ├── tests/ │   ├── test_login.py │   ├── test_search.py │   ├── test_cart.py │ ├── pages/ │   ├── login_page.py │   ├── search_page.py │   ├── cart_page.py │ ├── utils/ │   ├── config.py │   ├── wait_utils.py │   └── screenshot.py │ ├── reports/ │ ├── conftest.py ├── pytest.ini ├── requirements.txt └── README.md
