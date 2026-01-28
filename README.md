@@ -1,8 +1,8 @@
 # E-commerce Automation Framework
 
 ## Overview
-This is a *Selenium WebDriver + Pytest automation framework* for automating key functionalities of an E-commerce website.  
-It follows the *Page Object Model (POM)* design pattern and includes features like *reporting, screenshots on failure, and explicit waits*.
+This is a Selenium WebDriver + Pytest automation framework for automating key functionalities of an E-commerce website.  
+It follows the Page Object Model (POM)* design pattern and includes features like reporting, screenshots on failure, and explicit waits.
 
 ---
 
@@ -48,5 +48,3 @@ selenium_pytest_framework/
 └── README.md
 
 
-
-selenium_pytest_framework/ │ ├── tests/ │   ├── test_login.py │   ├── test_search.py │   ├── test_cart.py │ ├── pages/ │   ├── login_page.py │   ├── search_page.py │   ├── cart_page.py │ ├── utils/ │   ├── config.py │   ├── wait_utils.py │   └── screenshot.py │ ├── reports/ │ ├── conftest.py ├── pytest.ini ├── requirements.txt └── README.md
